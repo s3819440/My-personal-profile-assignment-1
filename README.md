@@ -3,7 +3,7 @@
 		
            <P> CHINONSO JOHN NKPOLUKWU </P>
 	   
-	   <img src="Profilepic.JPG"(25,*,25)> 
+	   <img src="Profilepic.JPG"width=(200)> 
 	   
 	        <p> Chinonso John Nkpolukwu a qualified personal trainer,<br />              
                     an award-winning service professional, is seeking the successful <br />
@@ -21,7 +21,7 @@
 									</header>
 									<ul>
 									
-<h1 style="background-color:rgba(0, 180, 0, 0.6);">rgba(255, 99, 71, 0)</h1>	                                                                        <li><a href="index.html">Homepage</a></li>
+<h5 style="background-color:rgba(0, 180, 0, 0.6);">	                                                                     li><a href="index.html">Homepage</a></li></h5>
 										<li><a href="https://s3819440.github.io/My-personal-profile-assignment2-1/">Interest in It</a></li>
 										<li><a href="index.html">Ideal job</a></li>
 										<li><a href="index.html">Profile</a></li>

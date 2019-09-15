@@ -21,7 +21,7 @@
 									</header>
 									<ul>
 	                                                                        <li><a href="index.html">Homepage</a></li>
-										<li><a href="INTEREST IN IT">Interest in It</a></li>
+										<li><a href="https://s3819440.github.io/My-personal-profile-assignment2-1/">Interest in It</a></li>
 										<li><a href="index.html">Ideal job</a></li>
 										<li><a href="index.html">Profile</a></li>
 										<li><a href="index.html">Project Ideas</a></li>

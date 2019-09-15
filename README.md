@@ -3,7 +3,7 @@
 		
            <P> CHINONSO JOHN NKPOLUKWU </P>
 	   
-	   <img src="Profilepic.JPG"(25,*,25)> 
+	   <img src="Profilepic.JPG"><width=200</> 
 	   
 	        <p> Chinonso John Nkpolukwu a qualified personal trainer,<br />              
                     an award-winning service professional, is seeking the successful <br />

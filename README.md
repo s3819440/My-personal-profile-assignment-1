@@ -15,8 +15,13 @@
             </html> 
 	    
 	    
-	    <!----table of contents------/>
+	    <!-- table of contents -- >
 	    
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
 	    
 
 

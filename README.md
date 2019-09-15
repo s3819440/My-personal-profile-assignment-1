@@ -14,12 +14,15 @@
 		    </body>
             </html> 
 	    
+	    <frameset cols="25%,*,25%">
+                  <frame src="frame_a.htm">
+            </frameset>
+
+	                         <!-- Menu -- >
 	    
-	    <!-- table of contents -- >
-	    
-								<nav id="menu">
+								<nav id="Contents">
 									<header class="major">
-										<h2>Menu</h2>
+										<h2>Contents</h2>
 									</header>
 									<ul>
 	                                                                        <li><a href="index.html">Homepage</a></li>

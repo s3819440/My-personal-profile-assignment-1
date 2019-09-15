@@ -1,8 +1,8 @@
 # CHINONSO JOHN NKPOLUKWU
 <H3> S3819440@student.rmit.edu.au // John.nkp1@gmail.com </H3>
 
-                                                                     <img src="Profilepic.JPG">
-Chinonso John Nkpolukwu a qualified personal trainer, 
+
+<H6> Chinonso John Nkpolukwu a qualified personal trainer,</H6>        <img src="Profilepic.JPG">      
 an award-winning service professional, is seeking the successful
 application of industry level experience and customer service 
 expertise towards attaining a bachelor's degree in IT and 

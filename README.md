@@ -22,8 +22,9 @@
 									<ul>
 									
 <h4 style="background-color:rgba(0, 180, 0, 0.6);">	                                                                     <li><a href="index.html">Homepage</a></li></h4><h4 style="background-color:rgba(0, 180, 0, 0.6);"><li><a href="https://s3819440.github.io/My-personal-profile-assignment2-1/">Interest in It</a></li></h4>
-<h4 style="background-color:rgba(0, 180, 0, 0.6);"><li><a href="index.html">Ideal job</a></li></h4>
+<h4 style="background-color:rgba(0, 180, 0, 0.6);"><a href="https://s3819440.github.io/Ideal-job/">Ideal Job</a></h4>
 <h4 style="background-color:rgba(0, 180, 0, 0.6);"><li><a href="index.html">Profile</a></li></h4>
 <h4 style="background-color:rgba(0, 180, 0, 0.6);"><li><a href="index.html">Project Ideas</a></li></h4>
 
 
+<a href="https://s3819440.github.io/Ideal-job/">Ideal Job</a>

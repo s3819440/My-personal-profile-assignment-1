@@ -93,9 +93,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2012</h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
+          <h5 class="w3-opacity"><b>Interesting fact</b></h5>
+          
+          <p>An interesting fact about myself is I am a self proclaimed “passive nerd” , I do a lot of nerdy activities that I 
+          am beginning to realise are really nerdy. For example I enjoy documenting everyday things happening in my life on 
+          google docs and creating little projects and challenges for myself. My most recent is a book reading challenge. </p>
+          <br>
         </div>
       </div>
 

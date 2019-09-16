@@ -24,12 +24,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-display-container">
           <img src="Profilepic.JPG" style="width:100%" alt="profile pic">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>Chinonso John Nkpolukwu</h2>
+          
           </div>
         </div>
         <div class="w3-container">
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Sydney, Australia</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>S3819440@student.rmit.edu.au
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>S3819440@student.<br />rmit.edu.au
           </p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>0401 823 031</p>
           <hr>
@@ -43,7 +43,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
               
-            </div>
+          </div>
           </div>
           <h4><li><a href="https://s3819440.github.io/Ideal-job/">Ideal job</a></li></h4>
           <div class="w3-light-grey w3-round-xlarge w3-small">
@@ -73,23 +73,23 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"> 
-        </i>BIO</h2>
+        <h2>BIO</h2>
         <div class="w3-container">
            <h5> Chinonso John Nkpolukwu a qualified personal trainer, an award-winning service professional, is seeking the 
                successful application of industry level experience and customer service expertise towards attaining a 
                bachelor's degree in IT and developing a career within the IT industry.</h5>
           <h6 class="w3-text-teal">
           
-          </p><br>
-        </div>
+          
       </div>
 
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Personal Informtion</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>W3Schools.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
-          <p>Web Development! All I need to know in one place</p>
+          <h5>Background</h5>
+          <p> Currently 24 years of age, born and raised in Lagos Nigeria till the age of eight. I am one of five siblings,  
+          that includes two sisters and two brothers. I speak fluent English and also understand my native language of Yoruba, 
+          but speak it poorly</p>
           <hr>
         </div>
         <div class="w3-container">

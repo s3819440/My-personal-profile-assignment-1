@@ -75,10 +75,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-twothird">
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>About me</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>BIO</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <h5 class="w3-opacity"><b>About me</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>D.O.B: 12/07/1995 <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p>Currently 24 years of age, born and raised in Lagos Nigeria till the age of eight. I am one of five siblings,
           that includes two sisters and two brothers. I speak fluent English and also understand my native language of Yoruba,
           but speak it poorly.</p>

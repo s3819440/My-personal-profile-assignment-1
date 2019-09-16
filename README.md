@@ -2,7 +2,7 @@
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=3">
+<meta name="viewport" content="width=device-width, initial-scale=7">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -29,7 +29,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
         <div class="w3-container">
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Sydney, Australia</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>S3819440@student.<br />rmit.edu.au
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>S3819440@student.<br />
+                rmit.edu.au
           </p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>0401 823 031</p>
           <hr>
@@ -69,19 +70,18 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     </div>
 
     <!-- Right Column -->
-    <div class="w3-twothird">
+    <div class="w3-threethird">
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"> 
-        <h2>BIO</h2>
+           <h2>BIO</h2>
         <div class="w3-container">
-           <h5> Chinonso John Nkpolukwu a qualified personal trainer, an award-winning service professional, is seeking the 
+           <h5>Chinonso John Nkpolukwu a qualified personal trainer, an award-winning service professional, is seeking the 
                successful application of industry level experience and customer service expertise towards attaining a 
                bachelor's degree in IT and developing a career within the IT industry.</h5>
           <h6 class="w3-text-teal">
           
           
-      </div>
 
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Personal Informtion</h2>
@@ -93,7 +93,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>London Business School</b></h5>
+          <h5 class="w3-opacity"><b>Education</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
           <p>Master Degree</p>
           <hr>

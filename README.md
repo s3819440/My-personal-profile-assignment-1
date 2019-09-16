@@ -45,7 +45,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
               
           </div>
-          </div>
           <h4><li><a href="https://s3819440.github.io/Ideal-job/">Ideal job</a></li></h4>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             
@@ -59,7 +58,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+            
        
           </div>
           <br>
@@ -74,7 +73,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"> 
-           <h2>BIO</h2>
+           </i>BIO</h2>
         <div class="w3-container">
            <h5>Chinonso John Nkpolukwu a qualified personal trainer, an award-winning service professional, is seeking the 
                successful application of industry level experience and customer service expertise towards attaining a 
@@ -98,14 +97,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </p>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2019 - Present</h6>
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Certificate 3 & 4 - 
-          Australian Institute of fitness</b></p>
+          Australian Institute of <br /> fitness</b></p>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2018 - 2019</h6>
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>HSC - 
           Allsaints Catholic Senior college</b></p>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2011 - 2013</h6>
           <hr>
        
-        </div>
+        
       </div>
 
     <!-- End Right Column -->
@@ -128,5 +127,3 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
 
-</body>
-</html>

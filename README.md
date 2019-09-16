@@ -73,7 +73,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"> 
-           </i>BIO</h2>
+           <h2>BIO</h2>
         <div class="w3-container">
            <h5>Chinonso John Nkpolukwu a qualified personal trainer, an award-winning service professional, is seeking the 
                successful application of industry level experience and customer service expertise towards attaining a 

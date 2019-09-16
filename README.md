@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>CSS Template</title>
@@ -15,7 +14,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-color: #111;
   padding: 30px;
   text-align: center;
   font-size: 35px;

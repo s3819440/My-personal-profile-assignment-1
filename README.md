@@ -60,6 +60,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%"></div>
                         <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+                        
+          </div>
+          <h4><li><a href="https://s3819440.github.io/Bibliography/">Bibliography</a></li></h4>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%"></div>
+                                    <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>              
 
           </div>
           <br>

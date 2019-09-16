@@ -85,9 +85,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <h5 class="w3-opacity"><b>Activites and hobbies</b></h5>
+         
+          <p>My past time activities and hobbies are pretty much anything that requires physical exertion on my part. I am a 
+          fitness fanatic, but more specifically enjoy playing soccer and running. I’m also big on lifting weights. I’m a huge 
+          fan of the NBA and a diehard Houston Rockets fan.</p>
           <hr>
         </div>
         <div class="w3-container">

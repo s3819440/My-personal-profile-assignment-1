@@ -40,17 +40,17 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
           <h4><li><a href="https://s3819440.github.io/My-personal-profile-assignment2-1/">Interest in It</a></li></h4>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%"></div>
               <div class="w3-center w3-text-white"</div>
             </div>
           </div>
           <h4><li><a href="index.html">Profile</a></li></h4>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">75%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%"></div>
           </div>
           <h4><li><a href="index.html">Profile</a></li></h4>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%"</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%"></div>
           </div>
           <br>
 

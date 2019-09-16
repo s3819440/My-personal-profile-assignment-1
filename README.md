@@ -35,8 +35,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>0401 823 031</p>
           <hr>
           
-          <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal">
+         
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Contents</b></p>
           <h4><li><a href="index.html">Homepage</a></li></h4>
           <div class="w3-light-grey w3-round-xlarge w3-small">

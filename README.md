@@ -104,7 +104,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2011 - 2013</h6>
           <hr>
        
-        
+        </div>
       </div>
 
     <!-- End Right Column -->
